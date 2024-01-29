@@ -1,2 +1,0 @@
-# LabPCJimenaMendizabal1083524
-Depositorio del curso Pensamiento Computacional
